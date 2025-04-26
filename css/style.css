@@ -435,7 +435,7 @@ header .navbar.active{
     position: relative;
     width: 40px;
     height: 40px;
-    background-color: #fff;
+    background-color: #2a4963;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
@@ -444,7 +444,7 @@ header .navbar.active{
 
 
 .menuToggle.active{
-   background-color: #fff;
+   background-color:#2a4963;
     background-size: 25px;
     background-repeat: no-repeat;
     background-origin: center;
