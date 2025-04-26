@@ -435,21 +435,19 @@ header .navbar.active{
     position: relative;
     width: 40px;
     height: 40px;
-    background-color: #2a4963;
+    background-color:#2a4963;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
     background-size: 30px;
 }
 
-
 .menuToggle.active{
-   background-color:#2a4963;
+   background-color: #2a4963;
     background-size: 25px;
     background-repeat: no-repeat;
     background-origin: center;
 }
-
 header.sticky .menuToggle{
     filter: invert(1);
 }
