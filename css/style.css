@@ -435,16 +435,16 @@ header .navbar.active{
     position: relative;
     width: 40px;
     height: 40px;
-    background: #111;;
+    background-color: #fff;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
     background-size: 30px;
 }
 
-.menuToggle.active
-{
-    background: #111;;
+
+.menuToggle.active{
+   background-color: #fff;
     background-size: 25px;
     background-repeat: no-repeat;
     background-origin: center;
